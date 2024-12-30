@@ -1,0 +1,24 @@
+.about {
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh; /* Full screen height */
+    background: linear-gradient(to bottom, #000000, #2b2c30); /* Add a nice gradient background */
+    color: white;
+    padding: 20px;
+  }
+  
+  .about h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .about p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+  
