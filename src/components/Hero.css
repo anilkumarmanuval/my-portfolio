@@ -13,7 +13,7 @@
 
 .hero-content {
   max-width: 600px;
-  margin-bottom: 20px;
+  margin-bottom: 11px;
 }
 
 .hero-content h1 {
@@ -48,12 +48,12 @@
 }
 
 .hero-image {
-  margin-top: 30px;
+  margin-top: 11px;
 }
 
 .hero-image img {
-  width: 400px; /* Adjust size */
-  height: 400px; /* Adjust size */
+  width: 349px; /* Adjust size */
+  height: 349px; /* Adjust size */
   border-radius: 50%; /* Makes it circular */
   object-fit: cover;
   border: 3px solid #61dafb;

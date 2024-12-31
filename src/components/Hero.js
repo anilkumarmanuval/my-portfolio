@@ -20,22 +20,20 @@ const Hero = () => {
         <img src={profileImage} alt="Profile" />
       </div>
       <div className="social-icons">
-        <a href="FaInstagram://linkedin.com/anil-kumar-m313">
+        <a href="https://www.linkedin.com/in/anil-kumar-m313" target="_blank" rel="noopener noreferrer">
           <FaLinkedin />
         </a>
-        <a href="https://github.com">
+        <a href="https://github.com" target="_blank" rel="noopener noreferrer">
           <FaGithub />
         </a>
-        <a href="https://behance.net">
+        <a href="https://behance.net" target="_blank" rel="noopener noreferrer">
           <FaBehance />
         </a>
-        <a href="https://instagram.com">
-        <FaInstagram />
-</a>
+        <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+          <FaInstagram />
+        </a>
       </div>
-      <br></br>
-      <button className="contact-btn" href="/contacts">Contact</button>
-
+      <br />
     </section>
   );
 };
